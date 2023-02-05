@@ -154,6 +154,8 @@ github.com/stretchr/testify v1.7.0/go.mod h1:6Fq8oRcR53rry900zMqJjRRixrwX3KX962/
 github.com/stretchr/testify v1.8.1 h1:w7B6lhMri9wdJUVmEZPGGhZzrYTPvgJArz7wNPgYKsk=
 github.com/tullo/otel-workshop v0.4.2 h1:k+D9puCmZHAt3Vn78RELjlc0TF1p+VrI2/CLeVBqYx8=
 github.com/tullo/otel-workshop v0.4.2/go.mod h1:gykeiONWOUMBV+oHWiQUAPKqjQWoQkPN2fO0KM85hzE=
+github.com/tullo/otel-workshop v0.5.0 h1:UNjXSoZvXyUvPKfeAFYcsNqm8xo8SzL+o5+YqNQAbsY=
+github.com/tullo/otel-workshop v0.5.0/go.mod h1:gykeiONWOUMBV+oHWiQUAPKqjQWoQkPN2fO0KM85hzE=
 github.com/uptrace/uptrace-go v1.12.0 h1:j2aUzhXOoKl9yk13n2o/m+Yy4VNwytyWgi6y4IE+R+I=
 github.com/uptrace/uptrace-go v1.12.0/go.mod h1:ndJN50LMjOHTAp+5UEf5uuGmEUDFeBwt0MthzFVHDrs=
 github.com/yuin/goldmark v1.1.25/go.mod h1:3hX8gzYuyVAZsxl0MRgGTJEmQBFcNTphYh9decYSb74=
