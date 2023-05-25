@@ -6,7 +6,7 @@ go 1.19
 
 require (
 	github.com/tullo/otel-workshop v1.0.1
-	github.com/uptrace/uptrace-go v1.15.0
+	github.com/uptrace/uptrace-go v1.16.0
 	go.opentelemetry.io/otel v1.16.0
 )
 
