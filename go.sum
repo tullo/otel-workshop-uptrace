@@ -24,8 +24,8 @@ github.com/tullo/otel-workshop/web/fib v1.0.3 h1:OO6Fh8xkaT+vJXTpFVrfYwdftaOx0jP
 github.com/tullo/otel-workshop/web/fib v1.0.3/go.mod h1:X6H/IDwqeHHwdYHbnXvDwHlWdGUYunRINFLncnvV7sw=
 github.com/uptrace/uptrace-go v1.20.0 h1:GOcBeSceKRNpw5MRucccBpQbjJGq7QjFDVAxWg5VgO0=
 github.com/uptrace/uptrace-go v1.20.0/go.mod h1:uczWrUvr4LSXXbgWegAPAkLVTFO8xlydJ/XSTKHYYOQ=
-go.opentelemetry.io/contrib/instrumentation/net/http/httptrace/otelhttptrace v0.42.0 h1:0vzgiFDsCh/jxRCR1xcRrtMoeCu2itXz/PsXst5P8rI=
-go.opentelemetry.io/contrib/instrumentation/net/http/httptrace/otelhttptrace v0.42.0/go.mod h1:y0vOY2OKFMOTvwxKfurStPayUUKGHlNeVqNneHmFXr0=
+go.opentelemetry.io/contrib/instrumentation/net/http/httptrace/otelhttptrace v0.44.0 h1:ewRgsETI7b5nPCK3FqKdY9mFR/9ZwtexwC26//Srjn0=
+go.opentelemetry.io/contrib/instrumentation/net/http/httptrace/otelhttptrace v0.44.0/go.mod h1:+BrAX3hlRmkYIKl2e/eSRaKLkClDTY19gzegkQ+KeEQ=
 go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.44.0 h1:KfYpVmrjI7JuToy5k8XV3nkapjWx48k4E4JOtVstzQI=
 go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.44.0/go.mod h1:SeQhzAEccGVZVEy7aH87Nh0km+utSpo1pTv6eMMop48=
 go.opentelemetry.io/contrib/instrumentation/runtime v0.45.0 h1:2JydY5UiDpqvj2p7sO9bgHuhTy4hgTZ0ymehdq/Ob0Q=
