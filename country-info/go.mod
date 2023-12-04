@@ -3,7 +3,7 @@ module github.com/tullo/otel-workshop-uptrace/countryinfo
 go 1.19
 
 require (
-	github.com/segmentio/encoding v0.3.7
+	github.com/segmentio/encoding v0.4.0
 	github.com/uptrace/uptrace-go v1.21.0
 	go.opentelemetry.io/otel v1.21.0
 )
