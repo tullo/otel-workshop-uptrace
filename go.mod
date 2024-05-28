@@ -6,7 +6,7 @@ go 1.21
 
 require (
 	github.com/tullo/otel-workshop/web/fib v1.0.4
-	github.com/uptrace/uptrace-go v1.27.0
+	github.com/uptrace/uptrace-go v1.27.1
 	go.opentelemetry.io/otel v1.27.0
 )
 
