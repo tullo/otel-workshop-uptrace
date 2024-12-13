@@ -7,7 +7,7 @@ toolchain go1.23.4
 require (
 	github.com/segmentio/encoding v0.4.1
 	github.com/uptrace/uptrace-go v1.32.0
-	go.opentelemetry.io/otel v1.32.0
+	go.opentelemetry.io/otel v1.33.0
 )
 
 require (
