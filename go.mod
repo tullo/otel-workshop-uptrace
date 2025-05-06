@@ -2,7 +2,7 @@ module github.com/tullo/otel-workshop-uptrace
 
 go 1.23.0
 
-toolchain go1.24.2
+toolchain go1.24.3
 
 // replace github.com/tullo/otel-workshop => /home/anda/code/otel/workshop
 
