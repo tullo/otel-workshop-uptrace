@@ -2,7 +2,7 @@ module github.com/tullo/otel-workshop-uptrace/countryinfo
 
 go 1.23.0
 
-toolchain go1.24.6
+toolchain go1.25.0
 
 require (
 	github.com/segmentio/encoding v0.5.3
