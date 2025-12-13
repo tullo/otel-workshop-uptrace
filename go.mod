@@ -8,7 +8,7 @@ toolchain go1.25.5
 
 require (
 	github.com/tullo/otel-workshop/web/fib v1.0.4
-	github.com/uptrace/uptrace-go v1.38.0
+	github.com/uptrace/uptrace-go v1.39.0
 	go.opentelemetry.io/otel v1.39.0
 )
 
